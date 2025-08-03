@@ -27,8 +27,8 @@ Here are some ideas to get you started:
      
   </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahimjh&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimjh&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahimjh&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahimjh&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahimjh&theme=vision_friendly_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahimjh&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimjh&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahimjh&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahimjh&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahimjh&theme=date_night&utcOffset=8)
