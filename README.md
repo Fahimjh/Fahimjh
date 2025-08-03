@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+  <img src="https://www.hackerrank.com/certificates/iframe/257a48ff44b6" width="100" height="100"/>
 
    <div id="badges">
       <a href="https://www.linkedin.com/in/fahimjh085001/">
