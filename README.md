@@ -24,9 +24,7 @@ Here are some ideas to get you started:
       <a href="https://leetcode.com/u/fahimjh/">
         <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
       </a>
-     <a href="https://www.hackerrank.com/profile/fahimjh001">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png?style=for-the-badge&logo=HackerRank" alt="HackerRank Badge"/>
-      </a>
+     
   </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahimjh&theme=vision_friendly_dark)
