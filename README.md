@@ -15,19 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://www.hackerrank.com/certificates/iframe/257a48ff44b6" width="100" height="100"/>
 
    <div id="badges">
-      <a href="https://www.linkedin.com/in/fahimjh085001/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
       <a href="https://leetcode.com/u/fahimjh/">
         <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
       </a>
-     
+     <a href="https://www.hackerrank.com/profile/fahimjh001/">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/fahimjh085001/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
   </div>
+  <div align="center">
+   <img src="https://raw.githubusercontent.com/Fahimjh/CandCppLearning/main/Photos/HackerRank%20Certification.png" alt="HackerRank Certification" width="400"/>
+  </div> 
+</div> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahimjh&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahimjh&theme=date_night) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimjh&theme=date_night)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahimjh&theme=date_night)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahimjh&theme=date_night)
